@@ -1,4 +1,4 @@
-"""Crystal Cave Platformer - A simple Pygame Zero platformer game"""
+"""Ninja Crystal Cave Platformer - A Pygame Zero platformer"""
 import random
 from pygame import Rect
 
