@@ -29,7 +29,7 @@ A fast-paced platformer game featuring a nimble ninja character navigating throu
 
 1. **Clone the repository into your local enviroment**
 ```bash
-git clone 
+git clone https://github.com/Koanah/Ninja-Crystal-Cave-Platformer.git
 ```
 2. **Install Pygame Zero**
 ```bash
