@@ -45,7 +45,7 @@ python -m pgzero main.py
 ```
 
 ## Project Structure:
-All  [sprites]() and [sounds]() were generated programmatically using Python (Pillow for images, wave module for audio) to ensure completely original assets.
+All  [sprites](https://github.com/Koanah/Ninja-Crystal-Cave-Platformer/tree/main/images) and [sounds](https://github.com/Koanah/Ninja-Crystal-Cave-Platformer/tree/main/sounds) were generated programmatically using Python (Pillow for images, wave module for audio) to ensure completely original assets.
 ```
 Game/
 ├── images/     # ninja, bat, and slime sprites
